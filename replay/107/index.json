@@ -1,0 +1,22 @@
+{
+ "schema_version": 1,
+ "event_no": 107,
+ "name": "제107회 전국체육대회",
+ "points": [
+  {
+   "key": "p1004",
+   "label": "사전경기(10/4)",
+   "file": "p1004.json",
+   "date": "2026-10-04",
+   "data_as_of": "2026-10-04T22:10:27+09:00",
+   "completed_events": 9,
+   "stamped_at": "2026-10-04T22:11:54+09:00",
+   "sha256": "42bf422b29d4f78e28f0464b6d013d818e0e6afdd8e186cbe19f28933dee0b33",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {}
+  }
+ ]
+}
