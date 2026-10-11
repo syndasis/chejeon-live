@@ -142,6 +142,27 @@
    "final": false,
    "commentary": true,
    "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "7aba4178a57085d15ff748082648e2216a030efd",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/7aba4178a57085d15ff748082648e2216a030efd"
+   }
+  },
+  {
+   "key": "p1011",
+   "label": "사전경기(10/11)",
+   "file": "p1011.json",
+   "date": "2026-10-11",
+   "data_as_of": "2026-10-11T22:01:34+09:00",
+   "completed_events": 86,
+   "stamped_at": "2026-10-11T22:05:53+09:00",
+   "sha256": "b8d98e1f9aa12be6892bc0abc9de3777bdf76557bbb939374a623cc6a0f6e2e3",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
    "proof": {}
   }
  ]
