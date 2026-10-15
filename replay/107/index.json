@@ -226,6 +226,27 @@
    "final": false,
    "commentary": true,
    "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "d4418ac59abec7ae14236bd98411bdda38c0c578",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/d4418ac59abec7ae14236bd98411bdda38c0c578"
+   }
+  },
+  {
+   "key": "pre",
+   "label": "개막 전날(10/15)",
+   "file": "pre.json",
+   "date": "2026-10-15",
+   "data_as_of": "2026-10-15T22:11:52+09:00",
+   "completed_events": 120,
+   "stamped_at": "2026-10-15T22:15:53+09:00",
+   "sha256": "6af1c48083d932f9f17a0003698f28f42653fc00177be3ef53a55469da0c0142",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
    "proof": {}
   }
  ]
