@@ -310,6 +310,27 @@
    "final": false,
    "commentary": true,
    "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "81abc64df136311f8cdfb5d9228143f161819667",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/81abc64df136311f8cdfb5d9228143f161819667"
+   }
+  },
+  {
+   "key": "d3",
+   "label": "D+3(10/19)",
+   "file": "d3.json",
+   "date": "2026-10-19",
+   "data_as_of": "2026-10-19T22:05:21+09:00",
+   "completed_events": 747,
+   "stamped_at": "2026-10-19T22:05:53+09:00",
+   "sha256": "83585d974b98ab487995ec7867aa693802af19d173fbf13d6111b59bc3fdf034",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
    "proof": {}
   }
  ]
