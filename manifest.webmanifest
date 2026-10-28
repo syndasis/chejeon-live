@@ -1,0 +1,16 @@
+{
+  "name": "체전 라이브",
+  "short_name": "체전 라이브",
+  "description": "전국체육대회 종합순위·메달 전망과 지금 봐야 할 경기. 17개 시도 공용.",
+  "lang": "ko",
+  "start_url": "./?src=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2e8d4",
+  "theme_color": "#f2e8d4",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "event_no": 106,
+ "name": "제106회 전국체육대회",
+ "points": [
+  {
+   "key": "pre",
+   "label": "개막 전(9/24)",
+   "file": "pre.json",
+   "data_as_of": "2025-09-24T22:00:00+09:00",
+   "completed_events": 0
+  },
+  {
+   "key": "d0",
+   "label": "D+0(10/17)",
+   "file": "d0.json",
+   "data_as_of": "2025-10-17T22:00:00+09:00",
+   "completed_events": 209
+  },
+  {
+   "key": "d2",
+   "label": "D+2(10/19)",
+   "file": "d2.json",
+   "data_as_of": "2025-10-19T22:00:00+09:00",
+   "completed_events": 511
+  },
+  {
+   "key": "d4",
+   "label": "D+4(10/21)",
+   "file": "d4.json",
+   "data_as_of": "2025-10-21T22:00:00+09:00",
+   "completed_events": 783
+  },
+  {
+   "key": "d6",
+   "label": "D+6(10/23)",
+   "file": "d6.json",
+   "data_as_of": "2025-10-23T22:00:00+09:00",
+   "completed_events": 985
+  }
+ ],
+ "outcomes": "outcomes.json",
+ "scorecard": "scorecard.json"
+}

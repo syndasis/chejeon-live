@@ -1,0 +1,138 @@
+{
+ "schema_version": 1,
+ "event_no": 106,
+ "official": true,
+ "points": [
+  {
+   "key": "pre",
+   "label": "개막 전(9/24)",
+   "completed_events": 0,
+   "mae_pct": 7.8,
+   "rank_exact": 9,
+   "rank_within1": 12,
+   "in_range80": 13,
+   "n_sidos": 17,
+   "p_actual_winner": 0.887
+  },
+  {
+   "key": "d0",
+   "label": "D+0(10/17)",
+   "completed_events": 209,
+   "mae_pct": 7.4,
+   "rank_exact": 7,
+   "rank_within1": 11,
+   "in_range80": 14,
+   "n_sidos": 17,
+   "p_actual_winner": 0.972
+  },
+  {
+   "key": "d2",
+   "label": "D+2(10/19)",
+   "completed_events": 511,
+   "mae_pct": 4.3,
+   "rank_exact": 10,
+   "rank_within1": 16,
+   "in_range80": 13,
+   "n_sidos": 17,
+   "p_actual_winner": 1.0
+  },
+  {
+   "key": "d4",
+   "label": "D+4(10/21)",
+   "completed_events": 783,
+   "mae_pct": 2.8,
+   "rank_exact": 11,
+   "rank_within1": 17,
+   "in_range80": 10,
+   "n_sidos": 17,
+   "p_actual_winner": 1.0
+  },
+  {
+   "key": "d6",
+   "label": "D+6(10/23)",
+   "completed_events": 985,
+   "mae_pct": 1.6,
+   "rank_exact": 15,
+   "rank_within1": 17,
+   "in_range80": 11,
+   "n_sidos": 17,
+   "p_actual_winner": 1.0
+  }
+ ],
+ "matches": {
+  "n": 3174,
+  "hit": 0.646,
+  "baseline": "전년도 종합순위가 높은 쪽",
+  "baseline_n": 3174,
+  "baseline_hit": 0.559,
+  "excluded": 5,
+  "bins": [
+   {
+    "lo": 0.5,
+    "hi": 0.6,
+    "n": 1196,
+    "mean_p": 0.55,
+    "win_rate": 0.539
+   },
+   {
+    "lo": 0.6,
+    "hi": 0.7,
+    "n": 971,
+    "mean_p": 0.647,
+    "win_rate": 0.642
+   },
+   {
+    "lo": 0.7,
+    "hi": 0.8,
+    "n": 648,
+    "mean_p": 0.746,
+    "win_rate": 0.722
+   },
+   {
+    "lo": 0.8,
+    "hi": 0.9,
+    "n": 310,
+    "mean_p": 0.842,
+    "win_rate": 0.861
+   },
+   {
+    "lo": 0.9,
+    "hi": 1.0,
+    "n": 49,
+    "mean_p": 0.924,
+    "win_rate": 0.939
+   }
+  ],
+  "source": "replay"
+ },
+ "misses": [
+  {
+   "kind": "points",
+   "point": "pre",
+   "sido": "전남",
+   "expected": 33101,
+   "p10": 29231,
+   "p90": 37059,
+   "actual": 28770,
+   "in_range": false
+  },
+  {
+   "kind": "points",
+   "point": "pre",
+   "sido": "세종",
+   "expected": 8145,
+   "p10": 6931,
+   "p90": 9401,
+   "actual": 6521,
+   "in_range": false
+  },
+  {
+   "kind": "medal",
+   "point": "d2",
+   "sido": "강원",
+   "name": "볼링 남자대학부 2인조",
+   "medal": "동",
+   "prior_p": 0.01
+  }
+ ]
+}

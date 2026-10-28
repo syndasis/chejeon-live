@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>체전 라이브 · 강원 응원</title>
+<meta name="description" content="제107회 전국체전, 강원의 종합순위 전망과 오늘 봐야 할 경기">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="체전 라이브">
+<meta property="og:title" content="체전 라이브 · 강원 응원">
+<meta property="og:description" content="제107회 전국체전, 강원의 종합순위 전망과 오늘 봐야 할 경기">
+<meta property="og:image" content="https://syndasis.github.io/chejeon-live/og/gangwon.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://syndasis.github.io/chejeon-live/g/gangwon/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="robots" content="noindex">
+<script>
+/* 받은 쿼리(&fav= 등)는 그대로 넘긴다. 지역과 from=card 만 이 페이지가 정한다 */
+(function () {
+  var q = new URLSearchParams(location.search);
+  q.set("sido", "강원");
+  q.set("from", "card");
+  location.replace("../../?" + q.toString() + location.hash);
+})();
+</script>
+<meta http-equiv="refresh" content="1; url=../../?sido=%EA%B0%95%EC%9B%90&amp;from=card">
+<style>body{margin:0;padding:24px 16px;background:#f2e8d4;color:#151515;font:16px/1.6 system-ui,sans-serif}a{color:#2443d6;font-weight:700}</style>
+</head>
+<body>
+<p>강원을 응원하는 화면으로 넘어갑니다. <a href="../../?sido=%EA%B0%95%EC%9B%90&amp;from=card">체전 라이브로 가기</a></p>
+</body>
+</html>

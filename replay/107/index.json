@@ -1,0 +1,421 @@
+{
+ "schema_version": 1,
+ "event_no": 107,
+ "name": "제107회 전국체육대회",
+ "points": [
+  {
+   "key": "p1004",
+   "label": "사전경기(10/4)",
+   "file": "p1004.json",
+   "date": "2026-10-04",
+   "data_as_of": "2026-10-04T22:10:27+09:00",
+   "completed_events": 9,
+   "stamped_at": "2026-10-04T22:11:54+09:00",
+   "sha256": "42bf422b29d4f78e28f0464b6d013d818e0e6afdd8e186cbe19f28933dee0b33",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "7db7415820b547b4e19c2d25d0c597c37dfb7fc9",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/7db7415820b547b4e19c2d25d0c597c37dfb7fc9"
+   }
+  },
+  {
+   "key": "p1005",
+   "label": "사전경기(10/5)",
+   "file": "p1005.json",
+   "date": "2026-10-05",
+   "data_as_of": "2026-10-05T22:05:34+09:00",
+   "completed_events": 9,
+   "stamped_at": "2026-10-05T22:09:53+09:00",
+   "sha256": "e8a401b63b7ff659cffa62824b826d0cd07d595f55781c020670ec34d6858ea4",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "bf5141fbeb934668ecd5ba66962cc87bf0f863f6",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/bf5141fbeb934668ecd5ba66962cc87bf0f863f6"
+   }
+  },
+  {
+   "key": "p1006",
+   "label": "사전경기(10/6)",
+   "file": "p1006.json",
+   "date": "2026-10-06",
+   "data_as_of": "2026-10-06T22:11:59+09:00",
+   "completed_events": 15,
+   "stamped_at": "2026-10-06T22:13:53+09:00",
+   "sha256": "6680d3fbc2203a4ac007dd3642b1b8d1e442b01d3b0f190b0705e0d0398b9efd",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "b40158a187687839993c86180a97ca4b085de163",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/b40158a187687839993c86180a97ca4b085de163"
+   }
+  },
+  {
+   "key": "p1007",
+   "label": "사전경기(10/7)",
+   "file": "p1007.json",
+   "date": "2026-10-07",
+   "data_as_of": "2026-10-07T22:01:00+09:00",
+   "completed_events": 21,
+   "stamped_at": "2026-10-07T22:05:54+09:00",
+   "sha256": "ef2aeaed87dee91d77fb6e6a2e40fe21101496a0d0150290a8aa3267ac33ba87",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "d4b72ad3dab83a0e896b3e6572f7ee5c599e96f8",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/d4b72ad3dab83a0e896b3e6572f7ee5c599e96f8"
+   }
+  },
+  {
+   "key": "p1008",
+   "label": "사전경기(10/8)",
+   "file": "p1008.json",
+   "date": "2026-10-08",
+   "data_as_of": "2026-10-08T22:11:24+09:00",
+   "completed_events": 39,
+   "stamped_at": "2026-10-08T22:11:53+09:00",
+   "sha256": "a78a1fbbbf508654582cb9b3a34ddb20f57275539474223b1f8f027caa71ca41",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "d4f89c3d1d82b52f63ed89fa68eda711e5baf123",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/d4f89c3d1d82b52f63ed89fa68eda711e5baf123"
+   }
+  },
+  {
+   "key": "p1009",
+   "label": "사전경기(10/9)",
+   "file": "p1009.json",
+   "date": "2026-10-09",
+   "data_as_of": "2026-10-09T22:01:28+09:00",
+   "completed_events": 67,
+   "stamped_at": "2026-10-09T22:05:53+09:00",
+   "sha256": "82855fd312d41c3ad3fcaaae9758a1cdb017406405c2b45c571dfdcb16e1433b",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "1bb4f686666727cf2b9af245d026f5696581adee",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/1bb4f686666727cf2b9af245d026f5696581adee"
+   }
+  },
+  {
+   "key": "p1010",
+   "label": "사전경기(10/10)",
+   "file": "p1010.json",
+   "date": "2026-10-10",
+   "data_as_of": "2026-10-10T22:11:32+09:00",
+   "completed_events": 75,
+   "stamped_at": "2026-10-10T22:11:53+09:00",
+   "sha256": "aa9305f96a12695cf5d0d557ffe2bb5dbfe3bfa1740ccf0c7f377a1243041145",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "7aba4178a57085d15ff748082648e2216a030efd",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/7aba4178a57085d15ff748082648e2216a030efd"
+   }
+  },
+  {
+   "key": "p1011",
+   "label": "사전경기(10/11)",
+   "file": "p1011.json",
+   "date": "2026-10-11",
+   "data_as_of": "2026-10-11T22:01:34+09:00",
+   "completed_events": 86,
+   "stamped_at": "2026-10-11T22:05:53+09:00",
+   "sha256": "b8d98e1f9aa12be6892bc0abc9de3777bdf76557bbb939374a623cc6a0f6e2e3",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "f7dc7849bdc54586bda0e866a8526ec79539373d",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/f7dc7849bdc54586bda0e866a8526ec79539373d"
+   }
+  },
+  {
+   "key": "p1012",
+   "label": "사전경기(10/12)",
+   "file": "p1012.json",
+   "date": "2026-10-12",
+   "data_as_of": "2026-10-12T22:11:14+09:00",
+   "completed_events": 98,
+   "stamped_at": "2026-10-12T22:11:54+09:00",
+   "sha256": "63c14868033f167def2f5413f79ea5bcf7afb4012c8d075fab5c551d40585c13",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "56be998141d789b17589af3e9c25dc5d16fc6790",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/56be998141d789b17589af3e9c25dc5d16fc6790"
+   }
+  },
+  {
+   "key": "p1013",
+   "label": "사전경기(10/13)",
+   "file": "p1013.json",
+   "date": "2026-10-13",
+   "data_as_of": "2026-10-13T22:01:34+09:00",
+   "completed_events": 102,
+   "stamped_at": "2026-10-13T22:01:54+09:00",
+   "sha256": "8d0d728893f5706a0ccd8057c5ed04ab3ce424889287ba834f056d40a397cae9",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "720cb7a38dbffd22cad0940388e74423ca0a0db7",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/720cb7a38dbffd22cad0940388e74423ca0a0db7"
+   }
+  },
+  {
+   "key": "p1014",
+   "label": "사전경기(10/14)",
+   "file": "p1014.json",
+   "date": "2026-10-14",
+   "data_as_of": "2026-10-14T22:11:37+09:00",
+   "completed_events": 112,
+   "stamped_at": "2026-10-14T22:15:54+09:00",
+   "sha256": "560d08c0a5b96bfca570cc583f39b9b591c47a251fbe64796b875f7ab2f07c24",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "d4418ac59abec7ae14236bd98411bdda38c0c578",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/d4418ac59abec7ae14236bd98411bdda38c0c578"
+   }
+  },
+  {
+   "key": "pre",
+   "label": "개막 전날(10/15)",
+   "file": "pre.json",
+   "date": "2026-10-15",
+   "data_as_of": "2026-10-15T22:11:52+09:00",
+   "completed_events": 120,
+   "stamped_at": "2026-10-15T22:15:53+09:00",
+   "sha256": "6af1c48083d932f9f17a0003698f28f42653fc00177be3ef53a55469da0c0142",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "613aa4077eb9ff6050decac06709f7feeac583fa",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/613aa4077eb9ff6050decac06709f7feeac583fa"
+   }
+  },
+  {
+   "key": "d0",
+   "label": "D+0(10/16)",
+   "file": "d0.json",
+   "date": "2026-10-16",
+   "data_as_of": "2026-10-16T22:06:57+09:00",
+   "completed_events": 188,
+   "stamped_at": "2026-10-16T22:07:53+09:00",
+   "sha256": "170425e9e9ce35feeb7187499ea1fa76654ff835cdc4dd7ac5fc9c5cb4c75e31",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "a4856e1b88359f25bae2bea731190f930c910343",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/a4856e1b88359f25bae2bea731190f930c910343"
+   }
+  },
+  {
+   "key": "d1",
+   "label": "D+1(10/17)",
+   "file": "d1.json",
+   "date": "2026-10-17",
+   "data_as_of": "2026-10-17T22:12:00+09:00",
+   "completed_events": 348,
+   "stamped_at": "2026-10-17T22:13:54+09:00",
+   "sha256": "2f6e17c4715d19fdb71961ef243f71b1f653427b6bc8dac6e23fff8596eac6ad",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "5897385c8fcb3dfdfd7900cbb09da5070245a93d",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/5897385c8fcb3dfdfd7900cbb09da5070245a93d"
+   }
+  },
+  {
+   "key": "d2",
+   "label": "D+2(10/18)",
+   "file": "d2.json",
+   "date": "2026-10-18",
+   "data_as_of": "2026-10-18T22:07:11+09:00",
+   "completed_events": 589,
+   "stamped_at": "2026-10-18T22:11:53+09:00",
+   "sha256": "e24c0af9b577f2638081fcca283781716ee2ecbf7313b3d2cdb696280cacc5ad",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "81abc64df136311f8cdfb5d9228143f161819667",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/81abc64df136311f8cdfb5d9228143f161819667"
+   }
+  },
+  {
+   "key": "d3",
+   "label": "D+3(10/19)",
+   "file": "d3.json",
+   "date": "2026-10-19",
+   "data_as_of": "2026-10-19T22:05:21+09:00",
+   "completed_events": 747,
+   "stamped_at": "2026-10-19T22:05:53+09:00",
+   "sha256": "83585d974b98ab487995ec7867aa693802af19d173fbf13d6111b59bc3fdf034",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "730baaa6ad64d98818a44ce081271e5c7aa651a4",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/730baaa6ad64d98818a44ce081271e5c7aa651a4"
+   }
+  },
+  {
+   "key": "d4",
+   "label": "D+4(10/20)",
+   "file": "d4.json",
+   "date": "2026-10-20",
+   "data_as_of": "2026-10-20T22:05:30+09:00",
+   "completed_events": 884,
+   "stamped_at": "2026-10-20T22:09:54+09:00",
+   "sha256": "bfaaa01650b946bb330b1c0d6198bf85d0f9ae23b1b2de5228162c3f3c63b786",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "cc4fc07c0669f79ce42d6663a10e4b660ba917cb",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/cc4fc07c0669f79ce42d6663a10e4b660ba917cb"
+   }
+  },
+  {
+   "key": "d5",
+   "label": "D+5(10/21)",
+   "file": "d5.json",
+   "date": "2026-10-21",
+   "data_as_of": "2026-10-21T22:10:38+09:00",
+   "completed_events": 1038,
+   "stamped_at": "2026-10-21T22:11:54+09:00",
+   "sha256": "03d782e3522e9c0f102cfc6919b58dce31601d1e3908c31f5566f9060c3332ab",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "571aeaaa8bd5b2a17007a8b8c6fa23b00eee8017",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/571aeaaa8bd5b2a17007a8b8c6fa23b00eee8017"
+   }
+  },
+  {
+   "key": "d6",
+   "label": "D+6(10/22)",
+   "file": "d6.json",
+   "date": "2026-10-22",
+   "data_as_of": "2026-10-22T22:01:42+09:00",
+   "completed_events": 1100,
+   "stamped_at": "2026-10-22T22:03:54+09:00",
+   "sha256": "0a5e6e105d12aa07d17eb3be27718615d263cde1df1620b80fe5e52b90549755",
+   "source": "live",
+   "final": false,
+   "commentary": true,
+   "ledger": true,
+   "proof": {
+    "tries": {
+     "record": 1
+    },
+    "record_commit": "20f1471ef295ed62f4838628ad5c0cebc8cce6b3",
+    "record_url": "https://github.com/syndasis/chejeon-live/commit/20f1471ef295ed62f4838628ad5c0cebc8cce6b3"
+   }
+  },
+  {
+   "key": "final",
+   "label": "최종(10/28)",
+   "file": "final.json",
+   "date": "2026-10-28",
+   "data_as_of": "2026-10-28T12:34:13+09:00",
+   "completed_events": 1100,
+   "stamped_at": "2026-10-28T12:35:22+09:00",
+   "sha256": "44a12cc5fc9b51a2eca86b8a6dba366f9a4d4da0aff339443ab008ba1bf1477e",
+   "source": "live",
+   "final": true,
+   "commentary": true,
+   "ledger": true,
+   "proof": {}
+  }
+ ]
+}
